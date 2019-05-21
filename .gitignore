@@ -24,7 +24,7 @@ media
 *.so
 
 # Distribution / packaging
-.idea/
+.idea
 .Python
 build/
 develop-eggs/
